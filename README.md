@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on **Web Development and personal projects**<br><br>👯 I’m looking to collaborate on **Web Development, AI/ML and student projects**<br><br>🤝 I’m looking for help with **improving my development and problem-solving skills**<br><br>🌱 I’m currently learning **DSA, JavaScript, Backend Development and AI/ML**<br><br>💬 Ask me about **CSE, Web Development, DSA and my learning journey**<br><br>⚡ Fun fact: **I like learning new technologies by building projects and trying things out myself.**<br>
+🔭 I’m currently working on **Web Development and personal projects**<br><br>👯 I’m looking to collaborate on **Web Development, AI/ML and student projects**<br><br>🤝 I’m looking for help with **improving my development and problem-solving skills**<br><br>🌱 I’m currently learning **DSA, JavaScript, Backend Development and AI/ML**<br><br>💬 Ask me about **CSE, Web Development, DSA and my learning journey**<br><br>⚡ Fun fact: **I like learning new technologies by building projects and trying things out myself.**<br>
 
 
 ## 🌐 Socials:
